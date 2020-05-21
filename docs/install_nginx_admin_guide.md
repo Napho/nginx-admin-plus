@@ -3,8 +3,8 @@
 ## download install script
 ```
 cd /tmp
-wget -O install-nginx-admin-agent.sh https://github.com/alibaba/nginx-admin-plus/blob/master/install/install-nginx-admin-agent.sh
-wget -O install-nginx-admin-ui.sh https://github.com/alibaba/nginx-admin-plus/blob/master/install/install-nginx-admin-ui.sh
+wget -O install-nginx-admin-agent.sh https://raw.githubusercontent.com/alibaba/nginx-admin-plus/master/install/install-nginx-admin-agent.sh
+wget -O install-nginx-admin-ui.sh https://raw.githubusercontent.com/alibaba/nginx-admin-plus/master/install/install-nginx-admin-ui.sh
 ```
 
 ## may need line breaker convert
